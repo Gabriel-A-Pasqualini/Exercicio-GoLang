@@ -1,0 +1,9 @@
+https://timais.com/- online: true
+https://vasco.com.br/- online: true
+https://www.palmeiras.com.br/- online: false
+https://timais.com/- online: true
+https://vasco.com.br/- online: true
+https://www.palmeiras.com.br/- online: false
+https://timais.com/- online: true
+https://vasco.com.br/- online: true
+https://www.palmeiras.com.br/- online: false
